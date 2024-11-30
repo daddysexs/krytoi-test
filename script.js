@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: "Го няшиться?",
+        question: "Го няшится?",
         answers: ["A: Го", "B: Не("],
         correct: "A"
     },
